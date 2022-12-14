@@ -13,9 +13,9 @@ Creating a Database
     - Removing Punctuation
     - Stemming
 
-![Extract Text](https://github.com/GAUTAMSINGH102/Task/blob/main/Images/step2.1png)
+![Extract Text](https://github.com/GAUTAMSINGH102/Task/blob/main/Images/step2.1.png)
 
-![Extract Text](https://github.com/GAUTAMSINGH102/Task/blob/main/Images/step2.2png)
+![Extract Text](https://github.com/GAUTAMSINGH102/Task/blob/main/Images/step2.2.png)
 
 - **Tokenise**
     - Used Sentence Transformer
