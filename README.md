@@ -22,7 +22,7 @@ Creating a Database
     - Used TFIDF Vectorizer
 
 ## Step-3
-##**Calculate Score**  
+-**Calculate Score**  
 ![Extract Text](https://github.com/GAUTAMSINGH102/Task/blob/main/Images/step3.png)
 
 
